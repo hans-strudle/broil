@@ -1,0 +1,46 @@
+{
+  "name": "broil",
+  "version": "1.0.1",
+  "main": "broil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "scaffolds",
+    "bin"
+  ],
+  "author": "hansstrudel",
+  "license": "ISC",
+  "bin": {
+    "broil": "bin/cli.js"
+  },
+  "devDependencies": {},
+  "description": "Quickly and Easily create and generate scaffolds/skeletons for projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hans-strudel/broiler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hans-strudel/broiler/issues"
+  },
+  "homepage": "https://github.com/hans-strudel/broiler#readme",
+  "keywords": [
+    "new",
+    "old",
+    "boiler",
+    "boilerplate",
+    "skeleton",
+    "npm",
+    "grunt",
+    "package",
+    "program",
+    "scaffold",
+    "scaffolding",
+    "generator",
+    "gen",
+    "create",
+    "make",
+    "build",
+    "builder"
+  ]
+}
