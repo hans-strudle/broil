@@ -1,0 +1,22 @@
+{
+    "files": {
+        "firstFile.ext": {
+            "content": "Hello %%planet%%!"
+        },
+        "folder": {
+            "files": {
+                "secondFile.ext": {
+                    "content": "Prompted Var: %%prm%%"
+                }
+            }
+        }
+    },
+    "vars": {
+        "planet": {
+            "content": "Earth"
+        },
+        "prm": {
+            "prompt": "Input: "
+        }
+    }
+}
