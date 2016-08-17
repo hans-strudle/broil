@@ -1,5 +1,5 @@
-# BROILER
-###### Use broiler to generate all the files/folders in your projects for you, each scaffold is based off a simple .json file allowing for easy sharing
+# BROIL
+###### Use broil to generate all the files/folders in your projects for you, each scaffold is based off a simple .json file allowing for easy sharing
 #
 ### Install
 `npm install -g broil`
